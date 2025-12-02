@@ -1,0 +1,5 @@
+git add .
+git commit -m "feat: Add Kubernetes manifests for ArgoCD"
+git config --global user.email "kerolosfaredzekri@gmail.com"
+git config --global user.name "Kerolos"
+git push origin main 
